@@ -9,7 +9,7 @@
 
 ## Technologies
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
+![.net](https://img.shields.io/badge/.net-5C2D91?logo=.net&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
