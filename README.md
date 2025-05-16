@@ -28,8 +28,9 @@ Asto is an ERP (<i>CONCEPT</i>) application built using .NET (C#) for the API ba
 ![Azure-Devops](https://img.shields.io/badge/azure.devops-%230072C6.svg?logo=azure-devops&logoColor=white)
 
 ## Projects
-
-- ⚙️ [SMOking](https://smo.be) (since 2023)
-<br/>In house ERP/CRM - Winforms, blazor, .net api, sqlserver
-- ⚽ [Supportersfederatie Club Brugge](https://supportersfederatie.be) (2023)
+- ⚙️ [SMOking-vnext](https://smo.be) ((soon)2025)
+<br/>Converting legacy code to blazor application (blazor, .net api, sqlserver, llblgen)
+- ⚙️ [SMO-Machine-building: SMOking](https://smo.be) (since 2023 ~ soon)
+<br/>In house ERP/CRM - Winforms, sqlserver
+- ⚽ [Digital-Up: Supportersfederatie Club Brugge](https://supportersfederatie.be) (2023)
 <br/>Full stack web application using Laravel (blade), tailwindcss, php and alpine.js
