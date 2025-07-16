@@ -1,11 +1,4 @@
-## Current Hobby Project
-### Asto
-Asto is an ERP (<i>CONCEPT</i>) application built using .NET (C#) for the API backend and Vue.js for the frontend. This application provides essential ERP functionalities to streamline business operations.
-#### Stack
-- Backend .NET8 / API
-- Frontend Vue.js
-- Database MySql
-- Authentication: ASP.NET Identity
+## Current Project
 
 ## Languages
 
