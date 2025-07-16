@@ -21,9 +21,11 @@
 ![Azure-Devops](https://img.shields.io/badge/azure.devops-%230072C6.svg?logo=azure-devops&logoColor=white)
 
 ## Projects
-- ⚙️ [SMOking-vnext](https://smo.be) ((soon)2025)
-<br/>Converting legacy code to blazor application (blazor, .net api, sqlserver, llblgen)
-- ⚙️ [SMO-Machine-building: SMOking](https://smo.be) (since 2023 ~ soon)
+- 🌳 [WIWAM Phenotyping Software](https://wiwam.be) (since 2025-04 ~ ... )
+<br/>Developed and maintained software for WIWAM phenotyping machines, contributing to both new and existing hardware solutions
+- ⚙️ [SMOking-vnext](https://smo.be) (since 2024-11 ~ ... )
+<br/>Converting legacy code to blazor application (blazor, .net api, sqlserver, llblgen, flyway)
+- ⚙️ [SMO-Machine-building: SMOking](https://smo.be) (since 2023-11 ~ ... )
 <br/>In house ERP/CRM - Winforms, sqlserver
 - ⚽ [Digital-Up: Supportersfederatie Club Brugge](https://supportersfederatie.be) (2023)
 <br/>Full stack web application using Laravel (blade), tailwindcss, php and alpine.js
